@@ -27,7 +27,7 @@
 <br />
 
 
-## Key Features
+## :bulb: Key Features
 1. 보호자의 허밍에서 주요 멜로디(Pitch) 추출
 2. 생성형 AI MusicGen에 추출된 Pitch 데이터와 장르, 악기 프롬프트를 사용한 자장가 작곡
 3. ChatGPT 모델을 사용한 사용자 맞춤형 자장가 가사 작사
@@ -41,7 +41,7 @@
 <br />
 
 
-## System Architecture
+## :hammer: System Architecture
 <img src="https://github.com/user-attachments/assets/c31ea605-47a6-4f6f-8cdd-929afd5ac495" width=700 />
 <br />
 <br />
