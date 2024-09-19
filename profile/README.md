@@ -1,5 +1,32 @@
 ## 슬럼버스
 
+
+
+
+### 기술 스택
+- Client
+- Server
+- AI-Server
+- DB
+- Deploy
+
+### 메뉴 구성도
+
+### 주요 기능
+
+### 시연 영상
+
+### 아키텍처
+
+
+
+
+
+
+
+
+
+
 <!--
 
 **Here are some ideas to get you started:**
