@@ -23,7 +23,7 @@
 ### 시연 영상
 
 ### 아키텍처
-<img src="https://github.com/user-attachments/assets/c31ea605-47a6-4f6f-8cdd-929afd5ac495" />
+<img src="https://github.com/user-attachments/assets/c31ea605-47a6-4f6f-8cdd-929afd5ac495" width=700 />
 
 
 
