@@ -5,7 +5,7 @@
 
 ### 기술 스택
 - Client
-- Server: <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+- Server: <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" width="200"/>
 
 - AI-Server
 - DB
