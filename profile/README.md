@@ -11,7 +11,7 @@
 
 
 
- ## 기술 스택
+ ## :computer: 기술 스택
 - Client: <img src="https://img.shields.io/badge/React_Native-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB"/> <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=%2361DAFB"/>
 - Server: <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
 - AI-Server: <img src="https://img.shields.io/badge/Flask-%23000.svg?style=flat-square&logo=flask&logoColor=white"/>
@@ -21,7 +21,7 @@
 <br />
 
 
-## 메뉴 구성도
+## :file_folder: 메뉴 구성도
 <img src="https://github.com/user-attachments/assets/ddf8797f-7a46-4ded-a434-c617c5266b59" />
 <br />
 <br />
