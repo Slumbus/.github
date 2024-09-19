@@ -10,6 +10,11 @@
 
 
 
+## :movie_camera: Preview
+<img src="https://github.com/user-attachments/assets/e07f72db-5ba6-4cbd-acfa-8edb86edc7ac" />
+<br />
+<br />
+
 
  ## :computer: Tech Stack
 - Client: <img src="https://img.shields.io/badge/React_Native-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB"/> <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=%2361DAFB"/>
@@ -41,12 +46,6 @@
 4. 자장가별 아이 반응 기록
  > 6가지 상태(깊은 수면, 얕은 수면, 기쁨, 불편, 울음, 화남)를 등록하고, 곡에 대한 반응 코멘트를 작성할 수 있습니다. <br />
  > 이를 통해 작사, 작곡한 여러 자장가 중 아이에게 가장 잘 맞는 자장가를 찾도록 합니다.
-<br />
-
-
-## :movie_camera: Preview
-<img src="https://github.com/user-attachments/assets/e07f72db-5ba6-4cbd-acfa-8edb86edc7ac" />
-<br />
 <br />
 
 
