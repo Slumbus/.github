@@ -5,10 +5,11 @@
 
 ### 기술 스택
 - Client
-- Server <br />
+- Server
+  <br />
   <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white"/>
-
+  <br />
 - AI-Server
 - DB
 - Deploy
