@@ -24,6 +24,7 @@
 ## 메뉴 구성도
 <img src="https://github.com/user-attachments/assets/ddf8797f-7a46-4ded-a434-c617c5266b59" />
 <br />
+<br />
 
 
 ## 주요 기능
@@ -37,10 +38,12 @@
 ## 시연 영상
 <img src="https://github.com/user-attachments/assets/e07f72db-5ba6-4cbd-acfa-8edb86edc7ac" />
 <br />
+<br />
 
 
 ## 아키텍처
 <img src="https://github.com/user-attachments/assets/c31ea605-47a6-4f6f-8cdd-929afd5ac495" width=700 />
+<br />
 <br />
 
 
