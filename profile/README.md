@@ -1,12 +1,12 @@
 # 슬럼버스
 
-## 프로젝트 정보
+## About Project
 
 
-## 팀
+## Team
 
 
-## 프로젝트 소개
+## Project Instruction
 
 
 
