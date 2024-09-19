@@ -42,7 +42,6 @@
 - Storage: <img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=flat-square&logo=Amazon%20S3&logoColor=white">
 <br />
 
-
 ## :file_folder: Menu Structure
 <img src="https://github.com/user-attachments/assets/ddf8797f-7a46-4ded-a434-c617c5266b59" />
 <br />
