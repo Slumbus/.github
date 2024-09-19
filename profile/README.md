@@ -35,7 +35,7 @@
 <br />
 
 
-## 시연 영상
+## :movie_camera: 시연 영상
 <img src="https://github.com/user-attachments/assets/e07f72db-5ba6-4cbd-acfa-8edb86edc7ac" />
 <br />
 <br />
