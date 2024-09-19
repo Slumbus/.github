@@ -16,22 +16,6 @@
 <br />
 
 
- ## :computer: Tech Stack
-- Client: <img src="https://img.shields.io/badge/React_Native-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB"/> <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=%2361DAFB"/>
-- Server: <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
-- AI-Server: <img src="https://img.shields.io/badge/Flask-%23000.svg?style=flat-square&logo=flask&logoColor=white"/>
-- DB: <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white"/>
-- Deploy: <img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=flat-square&logo=Amazon%20EC2&logoColor=white">
-- Storage: <img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=flat-square&logo=Amazon%20S3&logoColor=white">
-<br />
-
-
-## :file_folder: Menu Structure
-<img src="https://github.com/user-attachments/assets/ddf8797f-7a46-4ded-a434-c617c5266b59" />
-<br />
-<br />
-
-
 ## :bulb: Key Features
 1. 보호자의 허밍에서 주요 멜로디(Pitch) 추출
  > 사용자가 자장가의 기본 멜로디가 될 허밍 음성을 입력하면, 서버에서 SPICE 모델을 사용해 허밍에서 주요 음정(Pitch)을 추출합니다. <br />
@@ -46,6 +30,22 @@
 4. 자장가별 아이 반응 기록
  > 6가지 상태(깊은 수면, 얕은 수면, 기쁨, 불편, 울음, 화남)를 등록하고, 곡에 대한 반응 코멘트를 작성할 수 있습니다. <br />
  > 이를 통해 작사, 작곡한 여러 자장가 중 아이에게 가장 잘 맞는 자장가를 찾도록 합니다.
+<br />
+
+
+ ## :computer: Tech Stack
+- Client: <img src="https://img.shields.io/badge/React_Native-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB"/> <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=%2361DAFB"/>
+- Server: <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+- AI-Server: <img src="https://img.shields.io/badge/Flask-%23000.svg?style=flat-square&logo=flask&logoColor=white"/>
+- DB: <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white"/>
+- Deploy: <img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=flat-square&logo=Amazon%20EC2&logoColor=white">
+- Storage: <img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=flat-square&logo=Amazon%20S3&logoColor=white">
+<br />
+
+
+## :file_folder: Menu Structure
+<img src="https://github.com/user-attachments/assets/ddf8797f-7a46-4ded-a434-c617c5266b59" />
+<br />
 <br />
 
 
