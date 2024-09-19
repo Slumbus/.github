@@ -13,9 +13,12 @@
 
 ### 메뉴 구성도
 <img src="https://github.com/user-attachments/assets/ddf8797f-7a46-4ded-a434-c617c5266b59" />
-<img src="https://github.com/user-attachments/assets/29ef9f73-b040-4511-9b78-e50c77b7978a" />
 
 ### 주요 기능
+#### 1. 보호자의 허밍에서 주요 멜로디(Pitch) 추출
+#### 2. 생성형 AI MusicGen에 추출된 Pitch 데이터와 장르, 악기 프롬프트를 사용한 자장가 작곡
+#### 3. ChatGPT 모델을 사용한 사용자 맞춤형 자장가 가사 작사
+#### 4. 자장가별 아이 반응 기록
 
 ### 시연 영상
 
