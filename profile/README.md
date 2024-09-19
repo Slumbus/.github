@@ -9,7 +9,7 @@
   <br />
 - AI-Server: <img src="https://img.shields.io/badge/flask-%23000.svg?style=flat-square&logo=flask&logoColor=white"/>
 - DB: <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white"/>
-- Deploy
+- Deploy: <img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=flat-square&logo=Amazon%20EC2&logoColor=white">
 
 ### 메뉴 구성도
 
