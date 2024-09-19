@@ -29,6 +29,7 @@
 4. 자장가별 아이 반응 기록
 
 ## 시연 영상
+<img src="https://github.com/user-attachments/assets/e07f72db-5ba6-4cbd-acfa-8edb86edc7ac" />
 
 ## 아키텍처
 <img src="https://github.com/user-attachments/assets/c31ea605-47a6-4f6f-8cdd-929afd5ac495" width=700 />
