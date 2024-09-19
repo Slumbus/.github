@@ -13,6 +13,7 @@
 
 ### 메뉴 구성도
 <img src="https://github.com/user-attachments/assets/ddf8797f-7a46-4ded-a434-c617c5266b59" />
+<img src="https://github.com/user-attachments/assets/29ef9f73-b040-4511-9b78-e50c77b7978a" />
 
 ### 주요 기능
 
