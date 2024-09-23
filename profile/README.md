@@ -92,17 +92,14 @@
 <br />
 <br />
 
-### UI/UX 디자인 및 데이터 모델링
+## 🎨 UI/UX 디자인 및 데이터 모델링
 - Figma
-<p>
-<img width="500px" alt="image" src="https://github.com/user-attachments/assets/20ffbf9a-4402-48fb-a489-d682ba31303c">
-</p>
+<img alt="image" src="https://github.com/user-attachments/assets/20ffbf9a-4402-48fb-a489-d682ba31303c">
 <br />
 
 - ERDCloud
-<p>
-<img width="500px" alt="image" src="https://github.com/user-attachments/assets/f75c2aa2-4c57-4bf5-b225-8f3182f7bce0">
-</p>
+<img alt="image" src="https://github.com/user-attachments/assets/f75c2aa2-4c57-4bf5-b225-8f3182f7bce0">
+<br />
 <br />
 
 ## :hammer: System Architecture
