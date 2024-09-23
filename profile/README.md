@@ -18,19 +18,6 @@
 - 개발기간: 2024.02~2024.09
 <br />
 
-### UI/UX 디자인 및 데이터 모델링
-- Figma
-<p>
-<img width="500px" alt="image" src="https://github.com/user-attachments/assets/20ffbf9a-4402-48fb-a489-d682ba31303c">
-</p>
-<br />
-
-- ERDCloud
-<p>
-<img width="500px" alt="image" src="https://github.com/user-attachments/assets/f75c2aa2-4c57-4bf5-b225-8f3182f7bce0">
-</p>
-<br />
-
 ## 👤 팀 소개
 |       오지연       |       박유정        |      양규리        |       유민경       |       이하늘       |                                                                                                               
 | :-----------------: | :-----------------: | :----------------: | :----------------: | :----------------: |
@@ -105,6 +92,18 @@
 <br />
 <br />
 
+### UI/UX 디자인 및 데이터 모델링
+- Figma
+<p>
+<img width="500px" alt="image" src="https://github.com/user-attachments/assets/20ffbf9a-4402-48fb-a489-d682ba31303c">
+</p>
+<br />
+
+- ERDCloud
+<p>
+<img width="500px" alt="image" src="https://github.com/user-attachments/assets/f75c2aa2-4c57-4bf5-b225-8f3182f7bce0">
+</p>
+<br />
 
 ## :hammer: System Architecture
 <img src="https://github.com/user-attachments/assets/c31ea605-47a6-4f6f-8cdd-929afd5ac495" width=700 />
