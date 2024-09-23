@@ -21,20 +21,20 @@
 ### UI/UX 디자인 및 데이터 모델링
 - Figma
 <p>
-<img width="800px" alt="image" src="https://github.com/user-attachments/assets/20ffbf9a-4402-48fb-a489-d682ba31303c">
+<img width="500px" alt="image" src="https://github.com/user-attachments/assets/20ffbf9a-4402-48fb-a489-d682ba31303c">
 </p>
 <br />
 
 - ERDCloud
 <p>
-<img width="800px" alt="image" src="https://github.com/user-attachments/assets/f75c2aa2-4c57-4bf5-b225-8f3182f7bce0">
+<img width="500px" alt="image" src="https://github.com/user-attachments/assets/f75c2aa2-4c57-4bf5-b225-8f3182f7bce0">
 </p>
 <br />
 
 ## 👤 팀 소개
 |       오지연       |       박유정        |      양규리        |       유민경       |       이하늘       |                                                                                                               
 | :-----------------: | :-----------------: | :----------------: | :----------------: | :----------------: |
-| <img width="160px" src="" /> | <img width="160px" src="https://github.com/user-attachments/assets/4aab592c-2142-4765-b47b-654e73f66491" /> | <img width="160px" src=""/> | <img width="160px" src=""/> | <img width="160px" src=""/> |
+| <img width="160px" src="https://github.com/user-attachments/assets/d6f56bcc-6aaa-495c-a071-81b47f184de5" /> | <img width="160px" src="https://github.com/user-attachments/assets/4aab592c-2142-4765-b47b-654e73f66491" /> | <img width="160px" src="https://github.com/user-attachments/assets/2c83526f-56d1-470b-b957-3f3e704bb2a8"/> | <img width="160px" src="https://github.com/user-attachments/assets/b06961df-d30b-4f28-a0c5-f0806240ff7d"/> | <img width="160px" src="https://github.com/user-attachments/assets/d9dbeb6c-cf89-43fe-a5b7-a752f01baa22"/> |
 | Full-stack | Full-stack | Full-stack | Full-stack | Full-stack |
 | [@ninano05](https://github.com/ninano05) | [@qkrdbwjd](https://github.com/qkrdbwjd) | [@ygreee0320](https://github.com/ygreee0320) | [@mk020](https://github.com/mk020) | [@twosky0202](https://github.com/twosky0202) |
 <br />
